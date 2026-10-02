@@ -1,0 +1,80 @@
+UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA - SEDE VIÑA DEL MAR
+CERTAMEN DE INTELIGENCIA DE NEGOCIOS - VERSIÓN 3
+PLANTILLA DE RESPUESTAS
+
+Nombre completo:
+RUT:
+Sección:
+Fecha:
+
+IMPORTANTE: guarde el archivo como APELLIDO_NOMBRE_VERSION3_CI_IN.txt
+
+INSTRUCCIONES
+- Responda ambas partes únicamente en este archivo TXT.
+- En la Parte I escriba una sola alternativa en mayúscula: A, B, C o D.
+- Ejemplo: 1. A
+- En la Parte II mantenga los encabezados, sea preciso y justifique sus decisiones.
+- No inserte imágenes, tablas dibujadas ni archivos adjuntos.
+
+PARTE I. SELECCIÓN MÚLTIPLE (60 puntos)
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+
+PARTE II. CASO PRÁCTICO (40 puntos)
+
+1. PROCESO DE NEGOCIO (4 puntos)
+Respuesta:
+
+
+2. GRANULARIDAD (6 puntos)
+Respuesta:
+
+
+3. DIMENSIONES (8 puntos)
+Respuesta:
+
+
+4. MEDIDAS (6 puntos)
+Respuesta:
+
+
+5. TABLA DE HECHOS (6 puntos)
+Respuesta:
+
+
+6. ESQUEMA DIMENSIONAL (6 puntos)
+Respuesta:
+
+
+7. VALIDACIÓN (4 puntos)
+Respuesta:
+
